@@ -23,4 +23,19 @@ https://youtu.be/p5G7MF42A-M
 joan demo part 3 HIGH 720p
 https://youtu.be/1FIaNtV1YrE
 
+04-23-21 Kevin recorded three demo videos for v2-09 of this project that have been uploaded into youTube:
+
+Kevin Demo 1   Win Exe download and Run Anyway    xAPI in LiveCode Weekly Meeting rehearsal 04 21 21
+
+https://youtu.be/KoLDXgf3dUU
+
+Kevin Demo 2 - Sending statements with Standalone App - xAPI in LiveCode Weekly Meeting REHERSAL 04-21-21 EDITS v1-04.mp4
+
+https://youtu.be/jTAKsKz14kg
+
+Kevin Demo 3 - Editing Statement - xAPI in LiveCode Weekly Meeting REHERSAL 04-21-21 EDITS v1-02.mp4
+
+https://youtu.be/2DDrBWEiEt0
+
+
 That's all folks! (for now)
